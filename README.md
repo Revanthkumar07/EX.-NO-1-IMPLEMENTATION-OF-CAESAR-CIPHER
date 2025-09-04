@@ -1,5 +1,6 @@
 # EX. NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
-
+## NAME:VESHWANTH.
+## REG NO:212224230300
 ## AIM:
 To implement the simple substitution technique named Caesar cipher using C language.
 
@@ -48,7 +49,7 @@ STEP-5: Display the cipher text obtained above.
     }
 ## OUTPUT:
 
-<img width="614" height="189" alt="image" src="https://github.com/user-attachments/assets/892d47fc-2306-4908-b168-577200e6f18d" />
+<img width="628" height="163" alt="image" src="https://github.com/user-attachments/assets/09489f52-a817-4188-b8f8-d060cdf5076b" />
 
 ## RESULT :
  Thus the implementation of ceasar cipher had been executed successfully.
